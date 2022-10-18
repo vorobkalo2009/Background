@@ -1,3 +1,12 @@
-.container {
-    background-color: green;
+.hw {
+    width: 700px;
+    height: 500px;
+    margin: 50px auto;
+    background: url(img/лампочка.jpg) top left / 40px repeat-x,
+                url(img/трава.jpg) bottom left / 60px repeat-x,
+                url(img/їжак.jpg) bottom left / 20px repeat-y,
+                url(img/колесо.jpg) bottom right / 20px repeat-y,
+                url(img/дім.jpg)center / 400px no-repeat
+                green;
 }
+
